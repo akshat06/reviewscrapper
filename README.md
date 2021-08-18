@@ -13,3 +13,8 @@ The code is deployed on Heroku platform and the link for my webpage is as follow
 
 https://reviewscrapperakshat.herokuapp.com/
 
+## Screenshot of webpage:
+
+![reviewscrapper](https://user-images.githubusercontent.com/47222460/129946887-d715d154-b590-45d8-b406-ed01a025e67e.PNG)
+
+
