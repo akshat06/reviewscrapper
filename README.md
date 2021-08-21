@@ -1,5 +1,5 @@
 # Flipkart reviewscrapper
-The Aim of this project is to fetch the User Reviews, Ratings for a particular product and show them in the web page. The stored data can further be used for doing Sentimment Analysis.
+The Aim of this project is to fetch the User Reviews, Ratings for a particular product and show them in the web page. The stored data can further be used for doing Sentiment Analysis.
 
 ## Technologies used
 BeautifulSoup: Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
